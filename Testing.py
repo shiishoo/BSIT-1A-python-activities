@@ -1,2 +1,2 @@
 print("Shing makulet");
-print(3%2);
+print("gjashgdjhasd");
